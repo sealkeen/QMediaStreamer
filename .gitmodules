@@ -1,0 +1,6 @@
+[submodule "QMediaStreamer_DataAccess"]
+	path = QMediaStreamer_DataAccess
+	url = https://github.com/sealkeen/QMediaStreamer_DataAccess
+[submodule "QMediaStreamer_UI"]
+	path = QMediaStreamer_UI
+	url = https://github.com/sealkeen/QMediaStreamer_UI
